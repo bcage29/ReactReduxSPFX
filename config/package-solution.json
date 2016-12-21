@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-redux-web-part-client-side-solution",
+    "id": "443f33fb-bee8-442c-94bd-40c9615f6466",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-redux-web-part.spapp"
+  }
+}

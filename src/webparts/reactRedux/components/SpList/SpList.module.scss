@@ -1,0 +1,34 @@
+.spListCell {
+    min-height: 54px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #eaeaea;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    outline: transparent;
+    position: relative;
+
+    &:hover {
+        background: #EEE;
+    }
+
+    .itemContent {
+        overflow: hidden;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+    }
+
+    .itemName {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .itemIndex {
+        font-size: 12px;
+        color: #a6a6a6;
+        margin-bottom: 10px;
+    }
+}

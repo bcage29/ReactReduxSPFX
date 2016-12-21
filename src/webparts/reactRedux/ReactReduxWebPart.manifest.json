@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "52b85434-c930-480b-85b2-0604c553b972",
+  "alias": "ReactReduxWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "52b85434-c930-480b-85b2-0604c553b972",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ReactRedux" },
+    "description": { "default": "ReactRedux description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "name": "",
+      "spLists": [],
+      "spListId": "",
+      "spListItems": []
+    }
+  }]
+}
